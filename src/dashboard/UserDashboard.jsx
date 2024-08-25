@@ -40,10 +40,7 @@ const UserDashboard = () => {
                             Create an <br /> unfair advantage
                         </h1>
                         <p className="pb-7">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-                            provident obcaecati, vitae mollitia nostrum deleniti culpa natus
-                            dolore exercitationem quod? Illum, provident sint in eius tempora
-                            voluptatum impedit quibusdam molestiae.
+                           In most of the Indian households often have leftover medicines, some of which are still within their expiry date, while others have expired. These medicines often end up in the trash, harming the environment. A proposed software solution addresses this by collecting expired and unused medicines from users. Users earn points for medicines still within their expiry date, which are verified for authenticity using QR codes and manual data entry. After user verification, the medicine data is sent to an admin portal for approval. Accepted medicines are returned to manufacturers for raw material extraction and reuse, preventing environmental harm.
                         </p>
                         <button
                             onClick={handleSignup}
